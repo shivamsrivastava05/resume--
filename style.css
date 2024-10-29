@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.top-container{
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+}
+.top-container .container{
+    height: 400px;
+    width: 400px;
+    border-radius:;
+}
+.middle-container{
+    text-align: center;
+    margin: 100px;
+}
+img{
+    float: left;
+}
